@@ -1,4 +1,4 @@
-TechnoHacks EduTech Internship(CyberSecurity ans Ethical Hacking)
+TechnoHacks EduTech Internship(CyberSecurity and Ethical Hacking)
 This Internship was provided by TechnoHacks Edutech under the guidance of Sandip Gavit.
 
 links: https://technohacks.co.in
